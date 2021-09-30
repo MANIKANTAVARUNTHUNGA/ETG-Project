@@ -1,1 +1,1 @@
-# ETG-Project
+# INVENTORY MANAGEMENT SYSTEM (ETG Internship-Project)
